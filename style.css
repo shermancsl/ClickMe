@@ -18,6 +18,7 @@ body {
         linear-gradient(135deg, #ffe6f2, #e8f4ff);
 
     overflow: hidden;
+    overflow-y: auto;
 }
 
 .game {
@@ -142,28 +143,28 @@ h1 {
 }
 
 .crack1 {
-    height: 70px;
+    height: 65px;
 
     left: 62px;
-    top: 65px;
+    top: 60px;
 
     transform: rotate(35deg);
 }
 
 .crack2 {
-    height: 60px;
+    height: 55px;
 
     left: 85px;
-    top: 95px;
+    top: 90px;
 
     transform: rotate(-40deg);
 }
 
 .crack3 {
-    height: 50px;
+    height: 45px;
 
     left: 45px;
-    top: 115px;
+    top: 110px;
 
     transform: rotate(-65deg);
 }
