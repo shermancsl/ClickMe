@@ -229,6 +229,11 @@ h1 {
 /* =========================
    CHICK
 ========================= */
+.chick img {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+}
 
 .chick {
     position: absolute;
